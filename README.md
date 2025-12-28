@@ -19,4 +19,4 @@ Instructions for how to install:
 * type: pastebin get GxEWWGS1 startup.lua
 
 # What's the main idea/reason?
-I always had a "potato pc" and in minecraft the advanced computer lags a bit, so for me it's difficult to program but the normal one works just fine so this OS is meant for the normal pc that's crafted with andesite and a glass pane
+I always had a "potato pc" and in minecraft the advanced computer lags a bit, so for me it's difficult to program but the normal one works just fine so this OS is meant for the normal pc that's crafted with andesite and a glass pane but it works also with the advanced one same way!

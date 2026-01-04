@@ -11,7 +11,7 @@ Check out my other OS!
 
 Uhhh, this is all... idk what else to write here.
 
-Yeah I forgot, here's the PASTEBIN CODE: https://pastebin.com/GxEWWGS1
+Yeah I forgot, here's the PASTEBIN code for the latest version (1.0): https://pastebin.com/GxEWWGS1
 
 Also,
 Instructions for how to install:
